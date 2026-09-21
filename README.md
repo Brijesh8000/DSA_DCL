@@ -14,8 +14,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Brijesh8000/DSA_DCL/tree/master/0011-container-with-most-water) |
+| [0151-reverse-words-in-a-string](https://github.com/Brijesh8000/DSA_DCL/tree/master/0151-reverse-words-in-a-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Brijesh8000/DSA_DCL/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Brijesh8000/DSA_DCL/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
