@@ -23,4 +23,9 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Brijesh8000/DSA_DCL/tree/master/0151-reverse-words-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Brijesh8000/DSA_DCL/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Brijesh8000/DSA_DCL/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
