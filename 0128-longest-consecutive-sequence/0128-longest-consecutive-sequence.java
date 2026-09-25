@@ -8,7 +8,7 @@ class Solution {
         int longest = 0;
 
         for (int num : numSet) {
-            // only attempt to build a sequence if 'num' is the start of one
+            
             if (!numSet.contains(num - 1)) {
                 int currentNum = num;
                 int currentLength = 1;
