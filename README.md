@@ -26,12 +26,18 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Brijesh8000/DSA_DCL/tree/master/0151-reverse-words-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Brijesh8000/DSA_DCL/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Brijesh8000/DSA_DCL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Brijesh8000/DSA_DCL/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Brijesh8000/DSA_DCL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Brijesh8000/DSA_DCL/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Brijesh8000/DSA_DCL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
