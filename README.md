@@ -40,4 +40,8 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Brijesh8000/DSA_DCL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Brijesh8000/DSA_DCL/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
