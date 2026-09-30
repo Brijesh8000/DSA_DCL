@@ -31,6 +31,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Brijesh8000/DSA_DCL/tree/master/0094-binary-tree-inorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Brijesh8000/DSA_DCL/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Brijesh8000/DSA_DCL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Union-Find
@@ -51,4 +52,16 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Brijesh8000/DSA_DCL/tree/master/0021-merge-two-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Brijesh8000/DSA_DCL/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Brijesh8000/DSA_DCL/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Brijesh8000/DSA_DCL/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
