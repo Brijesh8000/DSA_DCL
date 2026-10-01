@@ -56,12 +56,15 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Brijesh8000/DSA_DCL/tree/master/0094-binary-tree-inorder-traversal) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Brijesh8000/DSA_DCL/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Brijesh8000/DSA_DCL/tree/master/0094-binary-tree-inorder-traversal) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Brijesh8000/DSA_DCL/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Brijesh8000/DSA_DCL/tree/master/0094-binary-tree-inorder-traversal) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Brijesh8000/DSA_DCL/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 <!---LeetCode Topics End-->
