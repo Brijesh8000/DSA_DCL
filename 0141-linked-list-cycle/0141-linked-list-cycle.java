@@ -11,17 +11,10 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        List<ListNode> li =new ArrayList<>();
-        ListNode node=head;
-        if(node==null){
-            return false;
-        }
-        while(node!=null){
-            if(li.contains(node)){
-                return true;
-            }
-            li.add(node);
-            node=node.next;
+         Set<ListNode> seen = new HashSet<>();
+        while (head != null) {
+            if (!seen.add(head)) return true; // add() returns false if already present
+            head = head.next;
         }
         return false;
     }
