@@ -18,7 +18,8 @@ class Solution {
             p=node;
             node=next;
         }
-        return p;
+        head=p;
+        return head;
 
 
 
