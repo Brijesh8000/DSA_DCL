@@ -10,23 +10,22 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        // Set<Integer> s = new LinkedHashSet<>();
-       ListNode curr=head;
-       if(head==null){
-        return head;
-       }
-        while(curr.next!=null){
-            if(curr.val==curr.next.val){
-                curr.next=curr.next.next;
-               
+        
+        ListNode node=head;
+           if(head==null){
+            return head;
+           }
+        while(node.next!=null){
+            if(node.val==node.next.val){
+                node.next=node.next.next;
             }
             else{
-                curr=curr.next;
+                node=node.next;
+
             }
+
         }
-
-       return head;
-
+        return head;
         
     }
 }
