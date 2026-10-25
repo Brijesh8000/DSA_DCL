@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Brijesh8000/DSA_DCL/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Brijesh8000/DSA_DCL/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Brijesh8000/DSA_DCL/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Brijesh8000/DSA_DCL/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Brijesh8000/DSA_DCL/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Brijesh8000/DSA_DCL/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Brijesh8000/DSA_DCL/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Brijesh8000/DSA_DCL/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Brijesh8000/DSA_DCL/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Brijesh8000/DSA_DCL/tree/master/0242-valid-anagram) |
 | [1029-two-city-scheduling](https://github.com/Brijesh8000/DSA_DCL/tree/master/1029-two-city-scheduling) |
 ## Hungarian Algorithm
 |  |
