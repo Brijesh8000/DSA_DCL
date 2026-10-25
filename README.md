@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Brijesh8000/DSA_DCL/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Brijesh8000/DSA_DCL/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Brijesh8000/DSA_DCL/tree/master/0128-longest-consecutive-sequence) |
+| [1029-two-city-scheduling](https://github.com/Brijesh8000/DSA_DCL/tree/master/1029-two-city-scheduling) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Brijesh8000/DSA_DCL/tree/master/0011-container-with-most-water) |
+| [1029-two-city-scheduling](https://github.com/Brijesh8000/DSA_DCL/tree/master/1029-two-city-scheduling) |
 ## String
 |  |
 | ------- |
@@ -85,4 +87,16 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Brijesh8000/DSA_DCL/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Brijesh8000/DSA_DCL/tree/master/1029-two-city-scheduling) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Brijesh8000/DSA_DCL/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Brijesh8000/DSA_DCL/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
