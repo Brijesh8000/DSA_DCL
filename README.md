@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Brijesh8000/DSA_DCL/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Brijesh8000/DSA_DCL/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Brijesh8000/DSA_DCL/tree/master/0128-longest-consecutive-sequence) |
+| [0209-minimum-size-subarray-sum](https://github.com/Brijesh8000/DSA_DCL/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Brijesh8000/DSA_DCL/tree/master/0217-contains-duplicate) |
 | [1029-two-city-scheduling](https://github.com/Brijesh8000/DSA_DCL/tree/master/1029-two-city-scheduling) |
 ## Hash Table
@@ -111,4 +112,13 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Brijesh8000/DSA_DCL/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Brijesh8000/DSA_DCL/tree/master/0209-minimum-size-subarray-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Brijesh8000/DSA_DCL/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Brijesh8000/DSA_DCL/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
