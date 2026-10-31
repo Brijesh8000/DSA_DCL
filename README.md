@@ -10,6 +10,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Brijesh8000/DSA_DCL/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Brijesh8000/DSA_DCL/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Brijesh8000/DSA_DCL/tree/master/0217-contains-duplicate) |
+| [0435-non-overlapping-intervals](https://github.com/Brijesh8000/DSA_DCL/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Brijesh8000/DSA_DCL/tree/master/0560-subarray-sum-equals-k) |
 | [1029-two-city-scheduling](https://github.com/Brijesh8000/DSA_DCL/tree/master/1029-two-city-scheduling) |
 ## Hash Table
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Brijesh8000/DSA_DCL/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/Brijesh8000/DSA_DCL/tree/master/0435-non-overlapping-intervals) |
 | [1029-two-city-scheduling](https://github.com/Brijesh8000/DSA_DCL/tree/master/1029-two-city-scheduling) |
 ## String
 |  |
@@ -105,6 +107,7 @@
 | [0056-merge-intervals](https://github.com/Brijesh8000/DSA_DCL/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Brijesh8000/DSA_DCL/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Brijesh8000/DSA_DCL/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Brijesh8000/DSA_DCL/tree/master/0435-non-overlapping-intervals) |
 | [1029-two-city-scheduling](https://github.com/Brijesh8000/DSA_DCL/tree/master/1029-two-city-scheduling) |
 ## Hungarian Algorithm
 |  |
@@ -132,4 +135,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Brijesh8000/DSA_DCL/tree/master/0056-merge-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Brijesh8000/DSA_DCL/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
