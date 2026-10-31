@@ -10,6 +10,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Brijesh8000/DSA_DCL/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/Brijesh8000/DSA_DCL/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Brijesh8000/DSA_DCL/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/Brijesh8000/DSA_DCL/tree/master/0560-subarray-sum-equals-k) |
 | [1029-two-city-scheduling](https://github.com/Brijesh8000/DSA_DCL/tree/master/1029-two-city-scheduling) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 | [0141-linked-list-cycle](https://github.com/Brijesh8000/DSA_DCL/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Brijesh8000/DSA_DCL/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Brijesh8000/DSA_DCL/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Brijesh8000/DSA_DCL/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Brijesh8000/DSA_DCL/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Brijesh8000/DSA_DCL/tree/master/0560-subarray-sum-equals-k) |
 ## Quicksort
 |  |
 | ------- |
