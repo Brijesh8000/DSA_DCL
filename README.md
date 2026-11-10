@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Brijesh8000/DSA_DCL/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/Brijesh8000/DSA_DCL/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Brijesh8000/DSA_DCL/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Brijesh8000/DSA_DCL/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Brijesh8000/DSA_DCL/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -140,6 +141,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Brijesh8000/DSA_DCL/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Brijesh8000/DSA_DCL/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Brijesh8000/DSA_DCL/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Brijesh8000/DSA_DCL/tree/master/0435-non-overlapping-intervals) |
